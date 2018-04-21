@@ -10,10 +10,7 @@ RaspHotspot is a free responsive wifi hotspot control interface for raspberry pi
 
  - [Prerequisites](#prerequisites)
  - [Quick installer](#quick-installer)
- - [Manual installation](#manual-installation)
- - [Optional services](#optional-services)
- - [How to contribute](#how-to-contribute)
- - [License](#license)
+ - [Contact](#Contact)
  
  ## Prerequisites
  To use RaspHotspot, you must have a raspberry pi with the raspbian operating system installed on it.
@@ -35,5 +32,5 @@ configured as an access point as follows:
 
 
 
-
-contact: noam@leprovost.pro
+## Contact
+Email address: noam@leprovost.pro
